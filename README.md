@@ -10,8 +10,13 @@
   - JWTokens
   - SQLAlchemy
   - PyMongo
-#### C# / C++ / Rust 
 
+### C# / C++ / Rust 
+# 🌍 Languages
+1. Ukranian [`C1`]
+2. Russian [`C1`]
+3. English [`B1`-`B2`]
+4. Polish [`B2`]
 
 # 📏 Tools
 - Windows / **Linux**(_Fedora / Arch / Ubuntu / Manjaro_)
