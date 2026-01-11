@@ -11,7 +11,10 @@
   - SQLAlchemy
   - PyMongo
 
-### C# / C++ / Rust 
+### C++
+  - ESP32
+
+### C# / Rust 
 # 🌍 Languages
 1. Ukranian [`C1`]
 2. Russian [`C1`]
