@@ -18,7 +18,7 @@
 # 🌍 Languages
 1. Ukranian [`C1`]
 2. Russian [`C1`]
-3. English [`B1`-`B2`]
+3. English [`B1`]
 4. Polish [`B2`]
 
 # 📏 Tools
