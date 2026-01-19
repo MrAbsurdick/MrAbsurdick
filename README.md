@@ -3,6 +3,7 @@
   - **React**
   - react-router-dom
   - redux-toolkit
+  - **tampermonkey**
 ### Python
   - **FastAPI**
   - **Flask**
@@ -14,7 +15,7 @@
 ### C++
   - ESP32
 
-### C# / Rust 
+### C# / Rust / Java
 # 🌍 Languages
 1. Ukranian [`C1`]
 2. Russian [`C1`]
