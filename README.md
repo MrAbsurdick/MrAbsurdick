@@ -8,9 +8,10 @@
   - PyMongo
 ### C++
   - ESP32
+  - Arduino
 ### Java 
-- ESP32
-- Arduino
+  - PaperMC
+
 ## Shell / C# / Go / Rust
 
 # 🌍 Languages
