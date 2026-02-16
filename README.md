@@ -1,21 +1,18 @@
 # 💪 Skills
 ### JavaScript / TypeScript
-  - **React**
-  - react-router-dom
-  - redux-toolkit
-  - **tampermonkey**
+  - **React** + react-router-dom + redux-toolkit
+  - tampermonkey
 ### Python
-  - **FastAPI**
-  - **Flask**
-  - Pydantic
-  - JWTokens
-  - SQLAlchemy
+  - **FastAPI** / **Flask**
+  - SQLAlchemy + Pydantic
   - PyMongo
-
 ### C++
   - ESP32
+### Java 
+- ESP32
+- Arduino
+## Shell / C# / Go / Rust
 
-### C# / Rust / Java
 # 🌍 Languages
 1. Ukranian [`C1`]
 2. Russian [`C1`]
@@ -41,3 +38,5 @@ Independent and responsible, I can take on a variety of tasks and find solutions
 Email: `mr.absurd.bedrock@gmail.com`
 <br/>
 Discord: `mrabsurdick`
+<br/>
+Telegram Blog: `@MrAbsurdick`
